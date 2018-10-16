@@ -1,0 +1,10 @@
+disp('to find:number of mathematics student taking atleast one of the languages french (f),germen(g) and russian(r)')
+f=65;
+g=45;
+r=42;
+fandg=20;
+fandr=25;
+gandr=15;
+fandgandr=8;
+forgorr=f+g+r-fandg-fandr-gandr+fandgandr;
+disp(forgorr,'the no of students atleast one of the languages:')
